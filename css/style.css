@@ -1,0 +1,60 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.header-part {
+    text-align: center;
+    color: rgba(0, 2, 0, 0.986);
+    font-size: 25px;
+    /* font-weight: 700px; */
+    background-image: url('../img/blood2.jpeg');
+    height: 450px;
+    padding-top: 100px;
+
+}
+
+
+.link-btn {
+    text-decoration: none;
+    color: white;
+    background-color: rgba(245, 4, 4, 0.719);
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+
+.middle-content {
+    text-align: center;
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 300px;
+}
+
+.middle-content h2 {
+    font-size: 30px;
+}
+
+.flex-box {
+    display: flex;
+
+}
+
+.box-1 {
+    color: brown;
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: #fcf1f1;
+    padding: 30px;
+    margin-right: 20px;
+}
+
+.box-2 {
+    background-color: #faebeb;
+    margin-right: 30px;
+    padding: 30px;
+
+}
+
+hr {
+    margin-bottom: 30px;
+}
