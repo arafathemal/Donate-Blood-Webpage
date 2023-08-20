@@ -3,6 +3,10 @@ body {
     margin: 0;
 }
 
+.text-color {
+    color: gray;
+}
+
 .header-part {
     text-align: center;
     color: rgba(0, 2, 0, 0.986);
@@ -104,4 +108,31 @@ hr {
     margin-right: 100px;
     text-align: left;
     border-radius: 5px;
+}
+
+.contribute-section {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+
+.contribute-section img {
+    width: 500px;
+    height: 350px;
+    padding-left: 50px;
+    margin-right: 200px;
+    border-radius: 5px;
+}
+
+.contribute-section h1 {
+    font-size: 35px;
+}
+
+.contribute-btn {
+    text-decoration: none;
+    color: white;
+    background-color: rgba(245, 4, 4, 0.719);
+    border-radius: 5px;
+    padding: 10px 10px;
 }
