@@ -118,9 +118,9 @@ hr {
 }
 
 .contribute-section img {
-    width: 500px;
+    width: 400px;
     height: 350px;
-    padding-left: 50px;
+    padding-left: 100px;
     margin-right: 200px;
     border-radius: 5px;
 }
@@ -132,7 +132,7 @@ hr {
 .contribute-btn {
     text-decoration: none;
     color: white;
-    background-color: rgba(245, 4, 4, 0.719);
+    background-color: #f50404b7;
     border-radius: 5px;
     padding: 10px 10px;
 }
@@ -149,8 +149,51 @@ hr {
 }
 
 .another-contribute-section img {
-    width: 500px;
+    width: 400px;
     height: 350px;
-    padding-right: 50px;
+    padding-right: 100px;
     border-radius: 10px;
+}
+
+.update-part {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.update-part h1 {
+    font-size: 40px;
+
+}
+
+.p-text {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.input-part {
+    background-color: #ececb2;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 50px 40px 50px 40px;
+}
+
+.input-part a {
+    text-decoration: none;
+    color: white;
+    background-color: #f50404b7;
+    border-radius: 2px;
+    padding: 2px;
+
+}
+
+.footer-section {
+    margin-top: 100px;
+    background-color: black;
+    color: #eaf7fc;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer-section h1 {
+    color: #ee2e2eb7;
 }
